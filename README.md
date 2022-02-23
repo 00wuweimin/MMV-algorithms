@@ -1,4 +1,4 @@
-# psychic-sniffle
+# MMY algorithms, there are three algorithms, including OME,BMP, BOMP
 
 MMY algorithms, there are three algorithms, including OME,BMP, BOMP
 
