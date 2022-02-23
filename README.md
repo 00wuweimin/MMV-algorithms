@@ -1,4 +1,4 @@
-# MMY algorithms, there are three algorithms, including OME,BMP, M-oMP
+# MMV algorithms, there are three algorithms, including OMP,BMP, M-OMP
 
 
 Environment:
